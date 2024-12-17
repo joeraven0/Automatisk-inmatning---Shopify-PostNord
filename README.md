@@ -2,6 +2,9 @@
 
 ## Beskrivning
 Detta script tillåter automatiserad inmatning av leveransinformation i PostNord Portal. Den manuella processen kan vara tidskrävande, särskilt för företag med många paket att hantera dagligen. Med detta script kan du enkelt kopiera leveransinformation från Shopify och med ett knapptryck mata in datan i PostNord Portal. Detta erbjuder en budgetvänlig lösning för företag som inte vill binda upp sig på en månadskostnad för ett API som automatiskt skapar etiketter.
+![GUI som emulerar tangentbord för PostNord Portal](gh-bilder/main.PNG "GUI för emulering")
+
+
 
 ## Funktioner
 - **Kopiera och klistra in**: Möjlighet att kopiera leveransdata direkt från Shopify.
