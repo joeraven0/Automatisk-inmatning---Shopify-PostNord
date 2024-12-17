@@ -12,6 +12,21 @@ Detta script tillåter automatiserad inmatning av leveransinformation i PostNord
 - **Automatisk fältinmatning**: Skriptet fyller automatiskt i informationen i PostNord Portal utan manuellt arbete.
 - **Anpassningsbar**: Även om skriptet är optimerat för Shopify, kan det enkelt anpassas för att fungera med andra system.
 
+## Förutsättningar för att komma igång
+
+- Att du har Python (>3) installerat med nödvändiga paket
+- Att kunddatan är formatterad på rätt sätt
+Inmatad data måste vara på följande format. Om inte, då måste du själv manuellt justera.
+```
+<Kundens namn>
+<Adress>
+<Postnummer> <Ort>
+<Land>
+<Telefonnummer>
+<E-post>
+```
+
+
 ## Hur man använder
 1. Starta skriptet genom att köra det på din dator.
 2. Kopiera leveransinformationen från Shopify eller annan plattform.
