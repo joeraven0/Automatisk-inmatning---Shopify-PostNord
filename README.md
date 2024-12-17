@@ -15,8 +15,7 @@ Detta script tillåter automatiserad inmatning av leveransinformation i PostNord
 ## Förutsättningar för att komma igång
 
 - Att du har Python (>3) installerat med nödvändiga paket
-- Att kunddatan är formatterad på rätt sätt
-Inmatad data måste vara på följande format. Om inte, då måste du själv manuellt justera.
+- Att kunddatan är formatterad på rätt sätt enligt nedan. Om inte måste du själv justera detta. Exempel är ibland lägenhetsnummer osv som kan behöva flyttas till adressraden.
 ```
 <Kundens namn>
 <Adress>
