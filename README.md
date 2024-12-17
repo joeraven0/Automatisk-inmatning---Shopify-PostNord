@@ -24,7 +24,7 @@ Detta script tillåter automatiserad inmatning av leveransinformation i PostNord
 Klona detta repository och installera nödvändiga bibliotek:
 
 ```
-git clone <repository-url>
+git clone https://github.com/joeraven0/Automatisk-inmatning---Shopify-PostNord.git
 pip install tkinter pynput
 ```
 
