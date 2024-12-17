@@ -8,8 +8,8 @@ Detta script tillåter automatiserad inmatning av leveransinformation i PostNord
 
 
 ## Funktioner
-- **Kopiera och klistra in**: Möjlighet att kopiera leveransdata direkt från Shopify.
-- **Automatisk fältinmatning**: Skriptet fyller automatiskt i informationen i PostNord Portal utan manuellt arbete.
+- **Kopiera och klistra in**: Möjlighet att kopiera leveransdata direkt från Shopify till GUI.
+- **Automatisk fältinmatning**: Skriptet fyller automatiskt i informationen i PostNord Portal utan manuellt arbete, tryck på Börja skriv i GUI.
 - **Anpassningsbar**: Även om skriptet är optimerat för Shopify, kan det enkelt anpassas för att fungera med andra system.
 
 ## Förutsättningar för att komma igång
