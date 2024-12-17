@@ -1,4 +1,4 @@
-# Automatisk Inmatning till PostNord Portal
+# Automatisk tangentbordsemulerad Inmatning till PostNord Portal
 
 ## Beskrivning
 Detta script tillåter automatiserad inmatning av leveransinformation i PostNord Portal. Den manuella processen kan vara tidskrävande, särskilt för företag med många paket att hantera dagligen. Med detta script kan du enkelt kopiera leveransinformation från Shopify och med ett knapptryck mata in datan i PostNord Portal. Detta erbjuder en budgetvänlig lösning för företag som inte vill binda upp sig på en månadskostnad för ett API som automatiskt skapar etiketter.
